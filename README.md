@@ -17,9 +17,9 @@ A command-line tool written in Go that generates secure, random passwords based 
 
 3. Run the program:
 
-   ```bash
+```bash
    go run main.go
-   ```
+```
 
 ## Usage
 
