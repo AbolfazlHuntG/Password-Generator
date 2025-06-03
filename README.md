@@ -9,8 +9,8 @@
  1. Ensure [Go](https://golang.org/dl/) is installed.
  2. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/advanced-password-generator.git
-    cd advanced-password-generator
+    git clone https://github.com/AbolfazlHuntG/Password-Generator.git
+    cd Password-Generator
     ```
  3. Run the program:
     ```bash
